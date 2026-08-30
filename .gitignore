@@ -1,0 +1,32 @@
+# Chrome profile - don't track
+.chrome-profile/
+
+# Workbuddy memory files
+.workbuddy/
+
+# JSON data files (not source code)
+*.json
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Node modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
